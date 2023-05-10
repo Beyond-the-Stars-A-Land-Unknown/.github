@@ -12,18 +12,23 @@ Now let's introduce the team...
 
 ### Kathleen:
 - Position: Lead Desginer
+- *Insert brief intro*
 
 ### Gemma:
 - Position: Lead Scripter
+- *Insert brief intro*
 
 ### Julia:
 - Position: Programmer
+- *Insert brief intro*
 
 ### Celara:
 - Position: Scripter
+- *Insert brief intro*
 
 ### Sarah:
 - Position: Lead Programmer
+- *Insert brief intro*
 
 And all of us together presents you our game: Beyond the Stars! 
 Follow us on our journey as we take our first steps into the unknown.
